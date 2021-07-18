@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
  <img src="https://github-readme-stats.vercel.app/api?username=VictorFajardo&show_icons=true&theme=gotham" alt="Victor Fajardo" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFajardo&theme=dark" width="48%" >
+
+## Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFajardo&layout=compact)
+  
