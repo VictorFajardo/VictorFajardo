@@ -1,9 +1,7 @@
 <h1 align="center">Hello there! 👋 I'm Victor Fajardo 🦁</h1>
 
-<h2 align="center" style="font-size: medium;font-weight: normal;
-    background-color: #f2f2f2;border-top: solid 1px #D9D9D9;border-bottom: solid 1px #D9D9D9;"><i>Full-Stack Software Engineer, Lead UI Developer and Mentor with over a decade working in advertising, currently looking for new directions and opportunities to continue growing professionally.</i></h2>
-
-
+> *Full-Stack Software Engineer, Lead UI Developer and Mentor with over a decade working in advertising, currently looking for new directions and opportunities to continue growing professionally.*
+    
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
 - 🚀 I’m currently working on [Wunderman Thompson](https://www.wundermanthompson.com/)
@@ -17,12 +15,12 @@
 
 - [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20-%20Software%20Engineer.docx?raw=true)
 - [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20-%20Software%20Engineer.pdf?raw=true)
-## My GitHub Stats
+## 📈 My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=VictorFajardo&show_icons=true&theme=gotham" alt="Victor Fajardo" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFajardo&theme=dark" width="45%" >
 
-## Top Languages
+## 📊 Top Languages
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFajardo&layout=compact)
   
