@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Games!
 - 🤔 I’m looking for help with transitioning to the videogame industry
 - 💬 Ask me about my job hunting
-- 📫 How to reach me: <a href="mailto:fajardo.de.leon@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/victorfajardo/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="mailto:fajardo.de.leon@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/victorfajardo/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
 
 ## My GitHub Stats
 
