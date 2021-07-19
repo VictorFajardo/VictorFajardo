@@ -27,9 +27,9 @@
 ## 📈 My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=VictorFajardo&show_icons=true&theme=gotham" alt="Victor Fajardo" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=VictorFajardo&theme=dark" width="45%" >
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=VictorFajardo&theme=dark" width="45%" >
 
 ## 📊 Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFajardo&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFajardo&layout)
   
