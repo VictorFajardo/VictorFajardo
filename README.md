@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Wunderman Thompson DC
+- 🔭 I’m currently working on [Wunderman Thompson](https://www.wundermanthompson.com/)
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Games!
 - 🤔 I’m looking for help with transitioning to the videogame industry
