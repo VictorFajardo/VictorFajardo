@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Victor Fajardo 🦁</h1>
 
-> *Full-Stack Software Engineer, Lead UI Developer and Mentor with over a decade working in advertising, currently looking for new directions and opportunities to continue growing professionally.*
+> *Full-Stack Software Engineer, Lead UI Developer and Mentor, currently looking for new directions and opportunities to continue growing professionally.*
     
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
@@ -15,6 +15,15 @@
 
 - [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20-%20Software%20Engineer.docx?raw=true)
 - [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20-%20Software%20Engineer.pdf?raw=true)
+
+## 🦁 About Me!
+
+- Willing to learn, enthusiastic about job challenges, new technologies and self-learning to keep up to date with market trends.
+- Innovative software engineer offering experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
+- Proficient in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications.
+- Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective, and responsive solutions.
+- Experienced in team leadership, offering an ideal balance of technical expertise and emotional intelligence while also keeping a focus on the big picture.
+
 ## 📈 My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=VictorFajardo&show_icons=true&theme=gotham" alt="Victor Fajardo" width="45%" align="right"/>
