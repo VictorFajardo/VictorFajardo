@@ -15,8 +15,8 @@
 
 ## 📃 My Resume
 
-- [Victor Fajardo - Software Engineer.doc](./docs/Victor Fajardo - Software Engineer.docx)
-- [Victor Fajardo - Software Engineer.pdf](./docs/Victor Fajardo - Software Engineer.pdf)
+- [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20-%20Software%20Engineer.docx)
+- [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20-%20Software%20Engineer.pdf)
 ## My GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=VictorFajardo&show_icons=true&theme=gotham" alt="Victor Fajardo" width="45%" align="right"/>
