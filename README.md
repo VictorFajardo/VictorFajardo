@@ -25,6 +25,7 @@
 - Experienced in team leadership, offering an ideal balance of technical expertise and emotional intelligence while also keeping a focus on the big picture.
 
 ## 🛠️ My Tech Stack
+
 ![Languages:](https://img.shields.io/badge/-Languages:-FFF?style=flat)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
@@ -60,16 +61,21 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;\
-![Source Control:](https://img.shields.io/badge/-Source%20Control:-FFF?style=flat)&nbsp;
+![Source Control:](https://img.shields.io/badge/-Source_Control:-FFF?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=BitBucket)&nbsp;\
-![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)&nbsp;
+![Code Deployment:](https://img.shields.io/badge/-Code_Deployment:-FFF?style=flat)&nbsp;
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&logo=AmazonAWS)&nbsp;\
+![Test Driven Tools:](https://img.shields.io/badge/-Test_Driven_Tools:-FFF?style=flat)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
-![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=Jasmine)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
-![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache)&nbsp;
+![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=Jasmine)&nbsp;\
+![Bug Tracking Tool:](https://img.shields.io/badge/-Bug_Tracking_Tool:-FFF?style=flat)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;\
+![Servers:](https://img.shields.io/badge/-Servers:-FFF?style=flat)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache)&nbsp;\
+![Software:](https://img.shields.io/badge/-Software:-FFF?style=flat)&nbsp;
 ![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-05122A?style=flat&logo=AdobePhotoshop)&nbsp;
 ![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-05122A?style=flat&logo=AdobeIllustrator)&nbsp;
 ![AdobeAfterEffects](https://img.shields.io/badge/-AdobeAfterEffects-05122A?style=flat&logo=AdobeAfterEffects)&nbsp;
@@ -78,7 +84,8 @@
 ![SketchUp](https://img.shields.io/badge/-SketchUp-05122A?style=flat&logo=SketchUp)&nbsp;
 ![MicrosoftOffice](https://img.shields.io/badge/-MicrosoftOffice-05122A?style=flat&logo=MicrosoftOffice)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
-![FileZilla](https://img.shields.io/badge/-FileZilla-05122A?style=flat&logo=FileZilla)&nbsp;
+![FileZilla](https://img.shields.io/badge/-FileZilla-05122A?style=flat&logo=FileZilla)&nbsp;\
+![IDEs:](https://img.shields.io/badge/-IDEs:-FFF?style=flat)&nbsp;
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=Atom)&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm)&nbsp;
