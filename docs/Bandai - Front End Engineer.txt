@@ -1,0 +1,46 @@
+About the job
+Position Summary
+
+This position will be a key team member in helping us design, develop and mature our online web presence and Digital Marketing efforts. This position will be responsible for taking designs, strategies and concepts and turning them into functional interactive experience for our games, services, and marketing campaigns. This position will work closely with a cross functional team of designers, engineers, production, and marketing. This role will focus on optimizing and innovating both existing and new technologies for experiences that make our web sites easy to use, fun and results orientated. We're building a digital marketing team that is planning on making big impact for our territory and company. Each team member is expected to be independent, creative, and entrepreneurial in spirit. If you are seeking a new adventure, love gaming and want to be part of a new exciting charter, then send us your resume and portfolio.
+
+Flexible, Remote and Work From Home options are available for this position until approximately April 2022. Afterwards we expect all employee's to join us at our new offices in Irvine, California where a hybrid work schedule will be observed.
+
+Essential Duties & Responsibilities
+Develop high quality web UI/UX experiences that support our digital marketing strategies
+Code the client side programming and support for new and existing web and online platform interfaces
+Optimize performance of client-side code, taking into account issues of page weight, complexity, SEO, network, user perception, and QA testing
+Develop front end for web sites, teaser sites and landing pages to support game launches
+UX development and support for online features such as registration, user profile, payment channels, and general web site features
+Project manage front end development workload and queue within JIRA
+Define, maintain, implement, and enforce best practices, code standards, reusable mark-ups, and CSS style guides. Utilize analytics and data to continually optimize development and experiences
+Work with PM, QA and back end engineering to manage staging, testing and production workflow
+Effectively present creative ideas and designs to cross functional teams – be a solution provider
+
+
+Supervisory Responsibilities
+Oversee the project management team
+
+
+Qualifications & Requirements
+2-5 years of experience with HTML, HTML5 and CSS3
+3 years of online and or heavy web UX development experience
+Advanced knowledge of JavaScript libraries such as Node JS, React, and Angular
+Strong understanding of responsive design and mobile first
+Experience with design systems and reusable components
+Experience developing rapid prototypes of potential new features and interfaces
+Experience with integrating the front-end with server side technologies
+User centered focus development mind set and discipline
+
+
+Education/Experience
+BS or MS degree in Computer Science or equivalent experience
+
+WORK ENVIRONMENT
+
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+The above statements are intended to describe the general nature and level of work being performed by employees in this position. They are not intended to be an exhaustive list of all duties, responsibilities, and qualifications of employees assigned to this job.
+
+About BANDAI NAMCO Entertainment America Inc.
+
+BANDAI NAMCO Entertainment America Inc., part of BANDAI NAMCO Holdings Inc., is a leading global publisher and developer of interactive content — including all major video game consoles, iOS, mobile and online. The company is known for creating and publishing many of the industry's top video game franchises, including PAC-MAN®, Tekken®, SOULCALIBUR®, NARUTO™, NARUTO SHIPPUDEN™, Dragon Ball®, GALAGA®, RIDGE RACER® and ACE COMBAT®. More information about the company and its products can be found at www.bandainamcoent.com.
