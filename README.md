@@ -4,7 +4,7 @@
     
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
-- 🚀 I’m currently working on [Wunderman Thompson](https://www.wundermanthompson.com/)
+- 🚀 I’m currently working at [Wunderman Thompson](https://www.wundermanthompson.com/)
 - 💪 I’m currently learning [React Native](https://reactnative.dev/)
 - 👯 I’m looking to increase [my network](https://www.linkedin.com/in/victorfajardo/) of contacts!
 - 💖 I’m looking for help with transitioning to the videogame industry!
