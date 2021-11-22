@@ -13,8 +13,8 @@
 
 ## 📃 My Resume
 
-- [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20-%20Software%20Engineer.docx?raw=true)
-- [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20-%20Software%20Engineer.pdf?raw=true)
+- [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20FullStack%20SWE.docx?raw=true)
+- [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20FullStack%20SWE.pdf?raw=true)
 
 ## 🦁 About Me!
 
