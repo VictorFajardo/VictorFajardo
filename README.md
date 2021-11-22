@@ -18,11 +18,13 @@
 
 ## 🦁 About Me!
 
-- Willing to learn, enthusiastic about job challenges, new technologies and self-learning to keep up to date with market trends.
-- Innovative software engineer offering experience in the full software development lifecycle – from concept through delivery of next-generation applications and customizable solutions.
-- Proficient in advanced development methodologies, tools and processes contributing to the design and rollout of cutting-edge software applications.
+- Self-motivated with a strong will to learn to keep up to date with market trends.
+- Innovative software engineer regarding web scalability, performance, and security.
+- Proficient in advanced development methodologies, tools, and processes. 
+- Skilled in writing clean, testable, maintainable, high quality code.
+- Experienced in team leadership, balancing technical expertise and emotional intelligence.
+- Demonstrated excellent communication skills, both verbal and written.
 - Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective, and responsive solutions.
-- Experienced in team leadership, offering an ideal balance of technical expertise and emotional intelligence while also keeping a focus on the big picture.
 
 ## 🛠️ My Tech Stack
 
