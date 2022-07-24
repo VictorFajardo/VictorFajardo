@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Victor Fajardo 🦁</h1>
 
-> *Self-Taught Software Engineer | Full-Stack Developer (JavaScript, TypeScript, React, Redux, NodeJS), currently looking for new directions and opportunities to continue growing professionally.*
+> *Self-Taught Software Engineer | Senior Full-Stack Lead Developer (JavaScript, TypeScript, React, Redux, NodeJS), currently looking for new directions and opportunities to continue growing professionally.*
     
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
