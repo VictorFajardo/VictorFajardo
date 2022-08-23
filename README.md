@@ -4,8 +4,8 @@
     
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
-- 🚀 I’m currently working at [Wunderman Thompson](https://www.wundermanthompson.com/)
-- 💪 I’m currently learning [React Native](https://reactnative.dev/)
+- 🚀 I’m currently working as freelancer
+- 💪 I’m currently learning [TensorFlow](https://www.tensorflow.org/)
 - 👯 I’m looking to increase [my network](https://www.linkedin.com/in/victorfajardo/) of contacts!
 - 💖 I’m looking for help with transitioning to the videogame industry!
 - 💬 Ask me about my job hunting!
@@ -13,8 +13,7 @@
 
 ## 📃 My Resume
 
-- [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20FullStack%20SWE.docx?raw=true)
-- [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20FullStack%20SWE.pdf?raw=true)
+- [Victor Fajardo - Software Engineer.doc](/docs/Victor Fajardo FullStack SWE.doc?raw=true)
 
 ## 🦁 About Me!
 
