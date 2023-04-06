@@ -1,11 +1,11 @@
 <h1 align="center">Hello there! 👋 I'm Victor Fajardo 🦁</h1>
 
-> *Self-Taught Software Engineer | Senior Full-Stack Lead Developer (JavaScript, TypeScript, React, Redux, NodeJS), currently looking for new directions and opportunities to continue growing professionally.*
-    
+> _Self-Taught Software Engineer | Senior Full-Stack Lead Developer (JavaScript, TypeScript, React, Redux, NodeJS), currently looking for new directions and opportunities to continue growing professionally._
+
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
 - 🚀 I’m currently working as freelancer
-- 💪 I’m currently learning [TensorFlow](https://www.tensorflow.org/)
+- 💪 I’m currently learning [Blender](https://www.blender.org/) and [Unity](https://unity.com/)
 - 👯 I’m looking to increase [my network](https://www.linkedin.com/in/victorfajardo/) of contacts!
 - 💖 I’m looking for help with transitioning to the videogame industry!
 - 💬 Ask me about my job hunting!
@@ -13,13 +13,13 @@
 
 ## 📃 My Resume
 
-- [Victor Fajardo - Software Engineer.doc](/docs/Victor%20Fajardo%20FullStack%20SWE.doc?raw=true)
+- [Victor Fajardo - Software Engineer.pdf](/docs/Victor%20Fajardo%20FullStack%20SWE.pdf?raw=true)
 
 ## 🦁 About Me!
 
 - Self-motivated with a strong will to learn to keep up to date with market trends.
 - Innovative software engineer regarding web scalability, performance, and security.
-- Proficient in advanced development methodologies, tools, and processes. 
+- Proficient in advanced development methodologies, tools, and processes.
 - Skilled in writing clean, testable, maintainable, high quality code.
 - Experienced in team leadership, balancing technical expertise and emotional intelligence.
 - Demonstrated excellent communication skills, both verbal and written.
@@ -99,6 +99,5 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=VictorFajardo&theme=dark" width="45%" >
 
 ## 📊 Top Languages
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFajardo&layout=compact)
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFajardo&layout=compact)
