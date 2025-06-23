@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! 👋 I'm Victor Fajardo</h1>
 
-> _Self-Taught Software Engineer | Senior Full-Stack Lead Developer (JavaScript, TypeScript, React, Redux, NodeJS), currently looking for new directions and opportunities to continue growing professionally._
+> _Senior Full-Stack Engineer with 15+ years of experience building scalable, secure, and resilient web applications in fast-paced environments. Proven expertise in full-stack JavaScript (React, Node.js), cloud-native architecture (AWS, Docker), and performance optimization for high-availability systems. Adept at cross-functional collaboration, mentoring engineers, and leading initiatives that improve speed to market, observability, and code quality. Passionate about delivering elegant solutions that simplify operations and drive measurable business value._
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=VictorFajardo.repoName"></p>
 
