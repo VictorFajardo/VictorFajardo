@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I'm Victor Fajardo 🦁</h1>
+<h1 align="center">Hello there! 👋 I'm Victor Fajardo</h1>
 
 > _Self-Taught Software Engineer | Senior Full-Stack Lead Developer (JavaScript, TypeScript, React, Redux, NodeJS), currently looking for new directions and opportunities to continue growing professionally._
 
